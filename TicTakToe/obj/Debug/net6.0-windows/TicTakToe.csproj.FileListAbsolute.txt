@@ -1,0 +1,17 @@
+C:\Users\block\Downloads\CSHARP\TicTakToe\bin\Debug\net6.0-windows\TicTakToe.exe
+C:\Users\block\Downloads\CSHARP\TicTakToe\bin\Debug\net6.0-windows\TicTakToe.deps.json
+C:\Users\block\Downloads\CSHARP\TicTakToe\bin\Debug\net6.0-windows\TicTakToe.runtimeconfig.json
+C:\Users\block\Downloads\CSHARP\TicTakToe\bin\Debug\net6.0-windows\TicTakToe.dll
+C:\Users\block\Downloads\CSHARP\TicTakToe\bin\Debug\net6.0-windows\TicTakToe.pdb
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.Form1.resources
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.Properties.Resources.resources
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.csproj.GenerateResource.cache
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.AssemblyInfoInputs.cache
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.AssemblyInfo.cs
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.csproj.CoreCompileInputs.cache
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.dll
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\refint\TicTakToe.dll
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.pdb
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\TicTakToe.genruntimeconfig.cache
+C:\Users\block\Downloads\CSHARP\TicTakToe\obj\Debug\net6.0-windows\ref\TicTakToe.dll
